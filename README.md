@@ -2,8 +2,8 @@
 
 # Tugas UTS Mobile App
 
-Nama : Nabila Aulia Agustin
-Kelas : TI.23.A2
+Nama : Nabila Aulia Agustin <br>
+Kelas : TI.23.A2 <br>
 Mata Kuliah : Mobile Application 1
 
 # Story Board
